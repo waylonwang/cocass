@@ -1,0 +1,13 @@
+{
+    "name": "bae-nodejs",
+    "version": "1.0.0",
+    "author": "bae",
+    "description": "coc assistant",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+		"mysql": "2.0.0-alpha9",
+        "express": "3.4.2"
+    }
+}
